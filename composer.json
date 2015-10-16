@@ -1,0 +1,8 @@
+{
+    "require": {
+        "php": ">=5.5.0",
+        "fzaninotto/faker": "1.4.0",
+        "devster/ubench": "1.1.1",
+        "sbstjn/reng": "0.2.1"
+    }
+}
